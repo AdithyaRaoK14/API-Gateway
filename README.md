@@ -1,4 +1,4 @@
-# API Gateway
+# Microservice Traffic Management Platform
 
 [![CI](https://github.com/AdithyaRaoK14/API-Gateway/actions/workflows/ci.yml/badge.svg)](https://github.com/AdithyaRaoK14/API-Gateway/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/)
